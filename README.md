@@ -9,4 +9,3 @@
 
   Run `pnpm run dev` to start the development server.
   # Garbled-text-tool
-# Garbled-text-tool
